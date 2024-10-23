@@ -36,4 +36,4 @@ def analisar_cabecalho_email(caminho_arquivo):
     print(check)
 
 # Exemplo de uso
-analisar_cabecalho_email(r'C:\Users\J4VR\Downloads\fortinet_email.msg')
+analisar_cabecalho_email(r'C:\Users\abc\Downloads\email.msg')
